@@ -1,0 +1,25 @@
+/* Coolors Exported Palette - https://coolors.co/0f1b2f-1191db-ffffff-ff9500-10182b */
+
+/* CSV */
+0F1B2F,1191DB,FFFFFF,FF9500,10182B
+
+/* With # */
+#0F1B2F, #1191DB, #FFFFFF, #FF9500, #10182B
+
+/* Array */
+["0F1B2F","1191DB","FFFFFF","FF9500","10182B"]
+
+/* Object */
+{"Oxford Blue":"0F1B2F","Celestial Blue":"1191DB","White":"FFFFFF","Princeton orange":"FF9500","Oxford Blue 2":"10182B"}
+
+/* Extended Array */
+[{"name":"Oxford Blue","hex":"0F1B2F","rgb":[15,27,47],"cmyk":[68,43,0,82],"hsb":[218,68,18],"hsl":[218,52,12],"lab":[10,2,-15]},{"name":"Celestial Blue","hex":"1191DB","rgb":[17,145,219],"cmyk":[92,34,0,14],"hsb":[202,92,86],"hsl":[202,86,46],"lab":[58,-5,-46]},{"name":"White","hex":"FFFFFF","rgb":[255,255,255],"cmyk":[0,0,0,0],"hsb":[0,0,100],"hsl":[0,0,100],"lab":[100,0,0]},{"name":"Princeton orange","hex":"FF9500","rgb":[255,149,0],"cmyk":[0,42,100,0],"hsb":[35,100,100],"hsl":[35,100,50],"lab":[71,32,77]},{"name":"Oxford Blue","hex":"10182B","rgb":[16,24,43],"cmyk":[63,44,0,83],"hsb":[222,63,17],"hsl":[222,46,12],"lab":[8,3,-14]}]
+
+/* XML */
+<palette>
+  <color name="Oxford Blue" hex="0F1B2F" r="15" g="27" b="47" />
+  <color name="Celestial Blue" hex="1191DB" r="17" g="145" b="219" />
+  <color name="White" hex="FFFFFF" r="255" g="255" b="255" />
+  <color name="Princeton orange" hex="FF9500" r="255" g="149" b="0" />
+  <color name="Oxford Blue" hex="10182B" r="16" g="24" b="43" />
+</palette>
